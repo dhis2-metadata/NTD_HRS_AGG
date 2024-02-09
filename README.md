@@ -1,2 +1,2 @@
-# NTD_AGG
-Neglected Tropical Diseases
+# NTD_RAB
+Human Rabies Surveillance
