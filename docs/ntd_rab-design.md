@@ -51,75 +51,79 @@ flowchart TB
               subgraph B1A[PEP - Rabies immunoglobulin]
                 idB1[- RIG/RmAbs kind <br> - Product details <br> - Amount recommended <br> - Amount administered <br> - Anatomical location of administration]
               end
-              subgraph B1B[Assessment determination]
-              style B1B fill:#7393B3,stroke:#333,stroke-width:4px
-                idB2[- Rabies PEP recommendation]
+              subgraph B1B[PEP - Anti-rabies vaccine]
+                idB2[- ARV series <br> - Vaccination site <br> - Product details]
               end
-              subgraph B1C[PEP - Anti-rabies vaccine]
-                idB3[- ARV series <br> - Vaccination site <br> - Product details]
+              subgraph B1C[Adverse reactions]
+                idB3[Adverse reactions to RIG/RmAbs and ARV]
               end
-              subgraph B1D[Adverse reactions]
-                idB4[Adverse reactions to RIG/RmAbs and ARV]
+              subgraph B1D[Next visit data]
+                idB4[- Site deviation <br> - Date of next visit <br> - Comments]
               end
-              subgraph B1E[Next visit data]
-                idB5[- Site deviation <br> - Date of next visit <br> - Comments]
-              end
-              B1A---B1B---B1C---B1D---B1E
+              B1A---B1B---B1C---B1D
         end
         subgraph B2[Clinic visits 2-3]
             direction TB
               subgraph B2A[Status]
-                idB6[- Date deviation <br> - Days since exposure <br> - Rabies PEP recommendation <br> - Animal health status <br> - Animal symptoms <br> - Animal availability <br> - Animal test results]
+                idB5[- Date deviation <br> - Days since exposure <br> - Animal health status <br> - Animal symptoms <br> - Animal availability <br> - Animal test results]
               end
-              subgraph B1B[Assessment determination]
-              style B1B fill:#7393B3,stroke:#333,stroke-width:4px
-                idB7[- Rabies PEP recommendation]
+              subgraph B2B[Assessment determination]
+              style B2B fill:#7393B3,stroke:#333,stroke-width:4px
+                idB6[- Rabies PEP recommendation]
               end
               subgraph B2C[PEP - Rabies immunoglobulin]
-                idB8[- RIG/RmAbs kind <br> - Product details <br> - Amount recommended <br> - Amount administered <br> - Anatomical location of administration]
+                idB7[- RIG/RmAbs kind <br> - Product details <br> - Amount recommended <br> - Amount administered <br> - Anatomical location of administration]
               end
               subgraph B2D[PEP - Anti-rabies vaccine]
-                idB9[- Date deviation <br> - ARV series <br> - Vaccination site <br> - Product details]
+                idB8[- Date deviation <br> - ARV series <br> - Vaccination site <br> - Product details]
               end
               subgraph B2E[Adverse reactions]
-                idB10[Adverse reactions to RIG/RmAbs and ARV]
+                idB9[Adverse reactions to RIG/RmAbs and ARV]
               end
               subgraph B2F[Next visit data]
-                idB11[- Schedule deviation <br> - Date of next visit <br> - Comments]
+                idB10[- Schedule deviation <br> - Date of next visit <br> - Comments]
               end
               B2A---B2B---B2C---B2D---B2E---B2F
         end
         subgraph B3[Clinic visit 4]
             direction TB
               subgraph B3A[Status]
-                id17[- Date deviation <br> - Days since exposure <br> - Rabies PEP recommendation <br> - Animal health status <br> - Animal symptoms <br> - Animal availability <br> - Animal test results]
+                idB11[- Date deviation <br> - Days since exposure <br> - Animal health status <br> - Animal symptoms <br> - Animal availability <br> - Animal test results]
               end
-              subgraph B3B[PEP - Anti-rabies vaccine]
-                id18[- Date deviation <br> - ARV series <br> - Vaccination site <br> - Product details]
+              subgraph B3B[Assessment determination]
+              style B3B fill:#7393B3,stroke:#333,stroke-width:4px
+                idB12[- Rabies PEP recommendation]
               end
-              subgraph B3C[Adverse reactions]
-                id19[Adverse reactions to RIG/RmAbs and ARV]
+              subgraph B3C[PEP - Anti-rabies vaccine]
+                idB13[- Date deviation <br> - ARV series <br> - Vaccination site <br> - Product details]
               end
-              subgraph B3D[PEP status]
-                id20[- Schedule deviation <br> - Date of next visit <br> - Comments]
+              subgraph B3D[Adverse reactions]
+                idB14[Adverse reactions to RIG/RmAbs and ARV]
               end
-              B3A---B3B---B3C---B3D
+              subgraph B3E[PEP status]
+                idB15[- Schedule deviation <br> - Date of next visit <br> - Comments]
+              end
+              B3A---B3B---B3C---B3D---B3E
         end
         subgraph B4[Clinic visit 5]
             direction TB
               subgraph B4A[Status]
-                id21[- Date deviation <br> - Days since exposure <br> - Rabies PEP recommendation <br> - Animal health status <br> - Animal symptoms <br> - Animal availability <br> - Animal test results]
+                idB16[- Date deviation <br> - Days since exposure <br> - Animal health status <br> - Animal symptoms <br> - Animal availability <br> - Animal test results]
               end
-              subgraph B4B[PEP - Anti-rabies vaccine]
-                id22[- Date deviation <br> - ARV series <br> - Vaccination site <br> - Product details]
+              subgraph B4B[Assessment determination]
+              style B4B fill:#7393B3,stroke:#333,stroke-width:4px
+                idB17[- Rabies PEP recommendation]
               end
-              subgraph B4C[Adverse reactions]
-                id23[Adverse reactions to RIG/RmAbs and ARV]
+              subgraph B4C[PEP - Anti-rabies vaccine]
+                idB18[- Date deviation <br> - ARV series <br> - Vaccination site <br> - Product details]
               end
-              subgraph B4D[PEP status]
-                id24[- Schedule deviation <br> - Comments]
+              subgraph B4D[Adverse reactions]
+                idB19[Adverse reactions to RIG/RmAbs and ARV]
               end
-              B4A---B4B---B4C---B4D
+              subgraph B4E[PEP status]
+                idB20[- Schedule deviation <br> - Comments]
+              end
+              B4A---B4B---B4C---B4D---B4E
         end
     B1 --> B2 --> B3 --> B4
     end
