@@ -51,8 +51,8 @@ flowchart TB
               subgraph B1A[PEP - Rabies immunoglobulin]
                 idB7[- RIG/RmAbs kind <br> - Product details <br> - Amount recommended <br> - Amount administered <br> - Anatomical location of administration]
               end
-              subgraph B1B[PEP - Rabies immunoglobulin]
-              style C fill:#7393B3,stroke:#333,stroke-width:4px
+              subgraph B1B[Assessment determination]
+              style B1B fill:#7393B3,stroke:#333,stroke-width:4px
                 idB8[- Rabies PEP recommendation]
               end
               subgraph B1C[PEP - Anti-rabies vaccine]
