@@ -26,7 +26,7 @@ flowchart TB
           id2[- Date of exposure <br> - Animal type <br> - Patient health status <br> - Animal health status <br> - Wound information <br> - Wound classification]
         end
         subgraph A3[Animal information]
-          id3[- Rabies symptoms <br> - Animal tessting <br> - Animal availability <br> - Animal vaccination history <br> - Animal provocation <br> -Animal exposure history]
+          id3[- Rabies symptoms <br> - Animal testing <br> - Animal availability <br> - Animal vaccination history <br> - Animal provocation <br> -Animal exposure history]
         end
         subgraph A4[Patient information, symptoms, vaccination history, diagnostic testing]
           id4[- Age <br> - Weight <br> - Symptoms <br> - Date of vaccination <br> - Anatomical location of vaccination <br> - Product name <br> - Adverse effects <br> - Common encephalitis cause <br> - Date of testing <br> - Test type  <br> - Test result <br> - Comments]
