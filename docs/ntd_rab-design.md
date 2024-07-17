@@ -49,18 +49,22 @@ flowchart TB
         subgraph B1["Clinic visit 1 (takes place at the same time as case assessment)"]
             direction TB
               subgraph B1A[PEP - Rabies immunoglobulin]
-                id8[- RIG/RmAbs kind <br> - Product details <br> - Amount recommended <br> - Amount administered <br> - Anatomical location of administration]
+                idB7[- RIG/RmAbs kind <br> - Product details <br> - Amount recommended <br> - Amount administered <br> - Anatomical location of administration]
               end
-              subgraph B1B[PEP - Anti-rabies vaccine]
-                id9[- ARV series <br> - Vaccination site <br> - Product details]
+              subgraph B1B[PEP - Rabies immunoglobulin]
+              style C fill:#7393B3,stroke:#333,stroke-width:4px
+                idB8[- Rabies PEP recommendation]
               end
-              subgraph B1C[Adverse reactions]
-                id10[Adverse reactions to RIG/RmAbs and ARV]
+              subgraph B1C[PEP - Anti-rabies vaccine]
+                idB9[- ARV series <br> - Vaccination site <br> - Product details]
               end
-              subgraph B1D[Next visit data]
+              subgraph B1D[Adverse reactions]
+                idB10[Adverse reactions to RIG/RmAbs and ARV]
+              end
+              subgraph B1E[Next visit data]
                 id11[- Site deviation <br> - Date of next visit <br> - Comments]
               end
-              B1A---B1B---B1C---B1D
+              B1A---B1B---B1C---B1D---B1E
         end
         subgraph B2[Clinic visits 2-3]
             direction TB
