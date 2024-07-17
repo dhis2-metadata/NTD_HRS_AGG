@@ -42,7 +42,7 @@ flowchart TB
   end
   subgraph D[Diagnostic testing - patient]
   style C fill:#7393B3,stroke:#333,stroke-width:4px
-    id7[- Diagnostic testing]
+    id7[- Diagnostic testing results]
   end
   subgraph E[Clinic Visits]
       direction LR
