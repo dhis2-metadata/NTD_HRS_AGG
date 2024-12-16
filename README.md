@@ -1,2 +1,2 @@
-# NTD_RAB
+# NTD_HRS
 Human Rabies Surveillance
