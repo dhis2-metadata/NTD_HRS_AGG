@@ -16,6 +16,17 @@ By utilizing this specialized dataset, countries can advance their contributions
 
 Human Rabies Surveillance aggregate data set consists of four main sections with sub-sections.
 
+Exposures and cases are disaggregated by WHO Wound Categories, GNARF age groups, sex and type of animal.
+
+**WHO Wound Category I** is defined as animal licks on intact skin, touching or feeding the animal.
+**WHO wound category II** is defined as minor scratches or abrasions, nibbling of uncovered skin.
+**WHO wound category III** is defined as transdermal bites or scratches, licks on broken skin, contamination of mucous membrane with saliva, exposure to a bat.
+
+**Post-exposure prophylaxis (PEP)** is defined as wound washing and at least 1 anti-rabies vaccination.
+
+
+
+
 - Reported animal exposures in humans
   - Reported dog-mediated exposures in humans
 
@@ -23,7 +34,6 @@ Human Rabies Surveillance aggregate data set consists of four main sections with
 
 ![Reported dog-mediated exposures in humans](resources/images/ntd_hrs_002.png)
 
-Exposures are disaggregated by WHO Wound Categories, GNARF age groups and sex.
 
 
 - Reported human rabies cases
@@ -43,12 +53,6 @@ Exposures are disaggregated by WHO Wound Categories, GNARF age groups and sex.
 - Animal exposure victims receiving PEP
 
 ![Animal exposure victims receiving PEP](resources/images/ntd_hrs_007.png)
-
-Exposures and cases are disaggregated by WHO Wound Category
-Data elements configured to collect data disaggregated by age use standardized GNARF disaggregates listed below:
-
-- Age
-  Disaggregates: <1y, 01-04y, 05-14y, 15-24y, 25-49y, 50-64y, 65+y
 
 ### User Groups
 
