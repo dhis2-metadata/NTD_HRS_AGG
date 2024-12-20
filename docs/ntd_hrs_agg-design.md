@@ -14,7 +14,7 @@ By utilizing this specialized dataset, countries can advance their contributions
 
 ### Data set Structure
 
-Human Rabies Surveillance aggregate data set consists of four main sections with sub-sections:
+Human Rabies Surveillance aggregate data set consists of four main sections with sub-sections.
 
 - Reported animal exposures in humans
   - Reported dog-mediated exposures in humans
@@ -22,6 +22,9 @@ Human Rabies Surveillance aggregate data set consists of four main sections with
 ![Reported animal exposures in humans](resources/images/ntd_hrs_001.png)
 
 ![Reported dog-mediated exposures in humans](resources/images/ntd_hrs_002.png)
+
+Exposures are disaggregated by WHO Wound Categories, GNARF age groups and sex.
+
 
 - Reported human rabies cases
   - Reported dog-mediated human rabies cases
@@ -41,7 +44,8 @@ Human Rabies Surveillance aggregate data set consists of four main sections with
 
 ![Animal exposure victims receiving PEP](resources/images/ntd_hrs_007.png)
 
-Data elements configured to collect data disaggregated by age of use standardized GNARF disaggregates listed below:
+Exposures and cases are disaggregated by WHO Wound Category
+Data elements configured to collect data disaggregated by age use standardized GNARF disaggregates listed below:
 
 - Age
   Disaggregates: <1y, 01-04y, 05-14y, 15-24y, 25-49y, 50-64y, 65+y
