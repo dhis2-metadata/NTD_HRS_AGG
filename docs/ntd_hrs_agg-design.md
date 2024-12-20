@@ -14,25 +14,47 @@ By utilizing this specialized dataset, countries can advance their contributions
 
 ### Data set Structure
 
-Human Rabies aggregate data sets use standardized GNARF disaggregations for sex and age. The disaggregations are listed below:
+Human Rabies Surveillance aggregate data set consists of four main sections with sub-sections:
 
-1. Sex
-Disaggregates: male, female
+- Reported animal exposures in humans
+  - Reported dog-mediated exposures in humans
 
-2. Age
-Disaggregates: <1 y, 01-04y, 05-14y, 15-24y, 25-49y, 50-64y, 65+y
+![Reported animal exposures in humans](resources/images/ntd-hrs-001.png)
+
+- Reported human rabies cases
+  - Reported dog-mediated human rabies cases
+- Human rabies deaths
+  - Dog-mediated human rabies deaths
+- Animal exposure victims receiving PEP
+
+Data elements configured to collect data disaggregated by age of use standardized GNARF disaggregates listed below:
+
+- Age
+  Disaggregates: <1y, 01-04y, 05-14y, 15-24y, 25-49y, 50-64y, 65+y
 
 ### User Groups
 
+As part of the package configuration, user groups have been created to be used to manage metadata sharing settings. Core metadata that use these sharing settings include data sets, dashboards, indicators and data elements. The three user groups are listed below:
+
+| **User group**       | **Dashboard**        | **Metadata**        | **Data**               |
+|-----------------------|----------------------|----------------------|-------------------------|
+| NTD - Admin          | Can edit and view    | Can edit and view    | Can view only          |
+| NTD - Access         | Can view only        | Can view only        | Can view only          |
+| NTD - Data capture   | No access            | Can view only        | Can capture and view   |
+
 ### Supporting Metadata
 
-### Dashboard design
+### Dashboard Design
 
 ## Special Considerations
 
 ### Integration with Overarching NTD Module
 
-Data collected in the Human Rabies Surveillance data set can be partially used to feed the data in the overarching NTD data set. The mapping between the two data sets is provided below. The metadata package contains a Data Exchange configuration that can be run in the core Data Exchange app. Data exchange can be triggered manually or scheduled to run periodically.
+Data collected in the Human Rabies Surveillance data set can be used to feed the data in the overarching Neglected Tropical Diseases data set. The mapping between the two data sets is provided below.
+
+The metadata package contains a Data Exchange configuration that can be run in the core Data Exchange app. Data exchange can be triggered manually or scheduled to run periodically.
+
+
 
 ### Integration with Human Rabies Surveillance Tracker
 
