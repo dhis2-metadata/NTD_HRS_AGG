@@ -21,11 +21,25 @@ Human Rabies Surveillance aggregate data set consists of four main sections with
 
 ![Reported animal exposures in humans](resources/images/ntd_hrs_001.png)
 
+![Reported dog-mediated exposures in humans](resources/images/ntd_hrs_002.png)
+
 - Reported human rabies cases
   - Reported dog-mediated human rabies cases
+ 
+![Reported human rabies cases](resources/images/ntd_hrs_003.png)
+
+![Reported dog-mediated human rabies cases](resources/images/ntd_hrs_004.png)
+
 - Human rabies deaths
   - Dog-mediated human rabies deaths
+ 
+![Human rabies deaths](resources/images/ntd_hrs_005.png)
+
+![Dog-mediated human rabies deaths](resources/images/ntd_hrs_006.png)
+
 - Animal exposure victims receiving PEP
+
+![Animal exposure victims receiving PEP](resources/images/ntd_hrs_007.png)
 
 Data elements configured to collect data disaggregated by age of use standardized GNARF disaggregates listed below:
 
