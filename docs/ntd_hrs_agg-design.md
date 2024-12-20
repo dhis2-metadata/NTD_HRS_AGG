@@ -19,7 +19,7 @@ Human Rabies Surveillance aggregate data set consists of four main sections with
 - Reported animal exposures in humans
   - Reported dog-mediated exposures in humans
 
-![Reported animal exposures in humans](resources/images/ntd-hrs-001.png)
+![Reported animal exposures in humans](resources/images/ntd_hrs_001.png)
 
 - Reported human rabies cases
   - Reported dog-mediated human rabies cases
