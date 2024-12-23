@@ -6,7 +6,7 @@
 
 ## Design
 
-- [Version 1.0.0](ntd-hrs-agg-design)
+- [Version 1.0.0](#ntd-hrs-agg-design)
 
 ## Installation
 
