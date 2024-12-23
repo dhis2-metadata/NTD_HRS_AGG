@@ -14,9 +14,7 @@ By utilizing this specialized dataset, countries can advance their contributions
 
 ### Data set Structure
 
-Human Rabies Surveillance aggregate data set consists of four main sections with sub-sections.
-
-Exposures and cases are disaggregated by WHO Wound Categories, GNARF age groups, sex and type of animal.
+Exposures and cases in the data entry form are disaggregated by WHO Wound Categories, GNARF age groups, sex and type of animal.
 
 - **WHO Wound Category I** is defined as animal licks on intact skin, touching or feeding the animal.
 
@@ -29,6 +27,12 @@ Exposures and cases are disaggregated by WHO Wound Categories, GNARF age groups,
 - **Laboratory confirmed** cases are defined as cases that have a positive laboratory result.
 
 - **Post-exposure prophylaxis (PEP)** is defined as wound washing and at least 1 anti-rabies vaccination.
+
+- **GNARF age groups** are defined as follows: <1 years, 1-4 years, 5-14 years, 15-24y, 25-49years, 50-64years, 65+y
+
+- **Types of animals** include dog, cat, bat, livestock, mammalian wildlife, other mammals and unknown animals.
+
+Human Rabies Surveillance aggregate data set consists of four main sections with sub-sections.
 
 - Reported animal exposures in humans
   - Reported dog-mediated exposures in humans
@@ -55,8 +59,6 @@ Exposures and cases are disaggregated by WHO Wound Categories, GNARF age groups,
 
 ![Animal exposure victims receiving PEP](resources/images/ntd_hrs_007.png)
 
-
-
 ### User Groups
 
 As part of the package configuration, user groups have been created to be used to manage metadata sharing settings. Core metadata that use these sharing settings include data sets, dashboards, indicators and data elements. The three user groups are listed below:
@@ -67,9 +69,9 @@ As part of the package configuration, user groups have been created to be used t
 | NTD - Access         | Can view only        | Can view only        | Can view only          |
 | NTD - Data capture   | No access            | Can view only        | Can capture and view   |
 
-### Supporting Metadata
-
 ### Dashboard Design
+
+
 
 ## Special Considerations
 
@@ -77,8 +79,20 @@ As part of the package configuration, user groups have been created to be used t
 
 Data collected in the Human Rabies Surveillance data set can be used to feed the data in the overarching Neglected Tropical Diseases data set. The mapping between the two data sets is provided below.
 
-The metadata package contains a Data Exchange configuration that can be run in the core Data Exchange app. Data exchange can be triggered manually or scheduled to run periodically.
+The metadata package contains a Data Exchange configuration that can be run in the core Data Exchange app. Data exchange can be triggered manually or scheduled to run periodically in the Scheduler app.
 
+The mapping between Human Rabies Surveillance data set and the Human Rabies section in the overarching Neglected Tropical Diseases module is provided in the table below:
+
+| **Human Rabies Surveillance data set**                                      |              | **Neglected Tropical Diseases data set**                                  |              |
+|-----------------------------------------------------------------------------|--------------|---------------------------------------------------------------------------|--------------|
+| **Metadata object/s**                                                       | Type         | **Metadata object/s**                                                     | Type         |
+| NTD-HRS - Laboratory-confirmed rabies cases                                 | Data element | NTD-RAB - Lab-confirmed human rabies cases                                | Data element |
+| NTD-HRS - PEP received - wound category II                                  | Data element | NTD-RAB - Humans receiving PEP - wound category II                        | Data element |
+| NTD-HRS - PEP received - wound category III                                 | Data element | NTD-RAB - Humans receiving PEP - wound category III                       | Data element |
+| NTD-HRS - Human rabies deaths                                               | Data element | NTD-RAB - Human rabies deaths                                             | Data element |
+| NTD-HRS - Dog-mediated human rabies deaths                                  | Data element | NTD-RAB- Human dog-mediated rabies deaths                                 | Data element |
+| NTD-HRS - Dog-mediated human rabies deaths                                  | Data element | NTD-RAB- Human dog-mediated rabies deaths                                 | Data element |
+| NTD-HRS - Animal exposures in humans, categories II and III, <01y, female <br> NTD-HRS - Animal exposures in humans, categories II and III, <01y, male <br> NTD-HRS - Animal exposures in humans, categories II and III, 01-04y, female <br> NTD-HRS - Animal exposures in humans, categories II and III, 01-04y, male <br> NTD-HRS - Animal exposures in humans, categories II and III, 05-14y, female <br> NTD-HRS - Animal exposures in humans, categories II and III, 05-14y <br> NTD-HRS - Animal exposures in humans, categories II and III, 15-24y, female <br> NTD-HRS - Animal exposures in humans, categories II and III, 15-24y <br> NTD-HRS - Animal exposures in humans, categories II and III, 25-49y, female <br> NTD-HRS - Animal exposures in humans, categories II and III, 25-49y <br> NTD-HRS - Animal exposures in humans, categories II and III, 50-64y, female <br> NTD-HRS - Animal exposures in humans, categories II and III, 50-64y <br> NTD-HRS - Animal exposures in humans, categories II and III, 65+y, female <br> NTD-HRS - Animal exposures in humans, categories II and III, 65+y| Indicators    | NTD-RAB - Human animal exposure/bite cases with wound category II and III | Data element |
 
 
 ### Integration with Human Rabies Surveillance Tracker
