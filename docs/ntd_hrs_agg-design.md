@@ -71,7 +71,20 @@ As part of the package configuration, user groups have been created to be used t
 
 ### Dashboard Design
 
+Human Rabies Surveillance agregate module includes a dashboard that includes visualizations, tables and maps covering the following sections:
 
+- Human Rabies key statistics
+- Progress towards elimination
+- Burden
+- Post-exposure Prophylaxis (PEP)
+
+Examples of dashboard items are provided below:
+
+![Human Rabies key statistics](resources/images/ntd_hrs_008.png)
+
+![Burden](resources/images/ntd_hrs_009.png)
+
+![Post-exposure Prophylaxis (PEP)](resources/images/ntd_hrs_010.png)
 
 ## Special Considerations
 
@@ -93,6 +106,11 @@ The mapping between Human Rabies Surveillance data set and the Human Rabies sect
 | NTD-HRS - Dog-mediated human rabies deaths                                  | Data element | NTD-RAB- Human dog-mediated rabies deaths                                 | Data element |
 | NTD-HRS - Dog-mediated human rabies deaths                                  | Data element | NTD-RAB- Human dog-mediated rabies deaths                                 | Data element |
 | NTD-HRS - Animal exposures in humans, categories II and III, <01y, female <br> NTD-HRS - Animal exposures in humans, categories II and III, <01y, male <br> NTD-HRS - Animal exposures in humans, categories II and III, 01-04y, female <br> NTD-HRS - Animal exposures in humans, categories II and III, 01-04y, male <br> NTD-HRS - Animal exposures in humans, categories II and III, 05-14y, female <br> NTD-HRS - Animal exposures in humans, categories II and III, 05-14y <br> NTD-HRS - Animal exposures in humans, categories II and III, 15-24y, female <br> NTD-HRS - Animal exposures in humans, categories II and III, 15-24y <br> NTD-HRS - Animal exposures in humans, categories II and III, 25-49y, female <br> NTD-HRS - Animal exposures in humans, categories II and III, 25-49y <br> NTD-HRS - Animal exposures in humans, categories II and III, 50-64y, female <br> NTD-HRS - Animal exposures in humans, categories II and III, 50-64y <br> NTD-HRS - Animal exposures in humans, categories II and III, 65+y, female <br> NTD-HRS - Animal exposures in humans, categories II and III, 65+y| Indicators    | NTD-RAB - Human animal exposure/bite cases with wound category II and III | Data element |
+| NTD-HRS - Dog-mediated exposures in humans, categories II and III, <01y, female <br> NTD-HRS - Dog-mediated exposures in humans, categories II and III, <01y, male <br> NTD-HRS - Dog-mediated exposures in humans, categories II and III, 01-04y, female <br> NTD-HRS - Dog-mediated exposures in humans, categories II and III, 01-04y, male <br> NTD-HRS - Dog-mediated exposures in humans, categories II and III, 05-14y, female <br> NTD-HRS - Dog-mediated exposures in humans, categories II and III, 05-14y <br> NTD-HRS - Dog-mediated exposures in humans, categories II and III, 15-24y, female <br> NTD-HRS - Dog-mediated exposures in humans, categories II and III, 15-24y <br> NTD-HRS - Dog-mediated exposures in humans, categories II and III, 25-49y, female <br> NTD-HRS - Dog-mediated exposures in humans, categories II and III, 25-49y <br> NTD-HRS - Dog-mediated exposures in humans, categories II and III, 50-64y, female <br> NTD-HRS - Dog-mediated exposures in humans, categories II and III, 50-64y <br> NTD-HRS - Dog-mediated exposures in humans, categories II and III, 65+y, female <br> NTD-HRS - Dog-mediated exposures in humans, categories II and III, 65+y| Indicators    | NTD-RAB - Human dog exposure/bite cases with wound category II and III | Data element |
+| NTD-HRS - Human rabies cases reported, <01y, female <br> NTD-HRS - Human rabies cases reported, <01y, male <br> NTD-HRS - Human rabies cases reported, 01-04y, female <br> NTD-HRS - Human rabies cases reported, 01-04y, male <br> NTD-HRS - Human rabies cases reported, 05-14y, female <br> NTD-HRS - Human rabies cases reported, categories II and III, 05-14y <br> NTD-HRS - Human rabies cases reported, categories II and III, 15-24y, female <br> NTD-HRS - Human rabies cases reported, categories II and III, 15-24y <br> NTD-HRS - Human rabies cases reported, categories II and III, 25-49y, female <br> NTD-HRS - Human rabies cases reported, categories II and III, 25-49y <br> NTD-HRS - Human rabies cases reported, categories II and III, 50-64y, female <br> NTD-HRS - Human rabies cases reported, categories II and III, 50-64y <br> NTD-HRS - Human rabies cases reported, categories II and III, 65+y, female <br> NTD-HRS - Human rabies cases reported, categories II and III, 65+y| Indicators    | NTD-RAB - Human rabies cases | Data element |
+| NTD-HRS - Dog-mediated human rabies cases reported, <01y, female <br> NTD-HRS - Dog-mediated human rabies cases reported, <01y, male <br> NTD-HRS - Dog-mediated human rabies cases reported, 01-04y, female <br> NTD-HRS - Dog-mediated human rabies cases reported, 01-04y, male <br> NTD-HRS - Dog-mediated human rabies cases reported, 05-14y, female <br> NTD-HRS - Dog-mediated human rabies cases reported, categories II and III, 05-14y <br> NTD-HRS - Dog-mediated human rabies cases reported, categories II and III, 15-24y, female <br> NTD-HRS - Dog-mediated human rabies cases reported, categories II and III, 15-24y <br> NTD-HRS - Dog-mediated human rabies cases reported, categories II and III, 25-49y, female <br> NTD-HRS - Dog-mediated human rabies cases reported, categories II and III, 25-49y <br> NTD-HRS - Dog-mediated human rabies cases reported, categories II and III, 50-64y, female <br> NTD-HRS - Dog-mediated human rabies cases reported, categories II and III, 50-64y <br> NTD-HRS - Dog-mediated human rabies cases reported, categories II and III, 65+y, female <br> NTD-HRS - Dog-mediated human rabies cases reported, categories II and III, 65+y| Indicators    | NTD-RAB - Dog-mediated human rabies cases | Data element |
+
+
 
 
 ### Integration with Human Rabies Surveillance Tracker
