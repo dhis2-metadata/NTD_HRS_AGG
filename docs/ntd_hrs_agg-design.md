@@ -19,13 +19,16 @@ Human Rabies Surveillance aggregate data set consists of four main sections with
 Exposures and cases are disaggregated by WHO Wound Categories, GNARF age groups, sex and type of animal.
 
 **WHO Wound Category I** is defined as animal licks on intact skin, touching or feeding the animal.
+
 **WHO wound category II** is defined as minor scratches or abrasions, nibbling of uncovered skin.
+
 **WHO wound category III** is defined as transdermal bites or scratches, licks on broken skin, contamination of mucous membrane with saliva, exposure to a bat.
 
+**Clinically diagnosed** cases are defined as cases that show clinical symptoms aligned with the human case definition and have a reliable history of contact to an animal susceptible to rabies.
+
+**Laboratory confirmed** cases are defined as cases that have a positive laboratory result.
+
 **Post-exposure prophylaxis (PEP)** is defined as wound washing and at least 1 anti-rabies vaccination.
-
-
-
 
 - Reported animal exposures in humans
   - Reported dog-mediated exposures in humans
@@ -33,8 +36,6 @@ Exposures and cases are disaggregated by WHO Wound Categories, GNARF age groups,
 ![Reported animal exposures in humans](resources/images/ntd_hrs_001.png)
 
 ![Reported dog-mediated exposures in humans](resources/images/ntd_hrs_002.png)
-
-
 
 - Reported human rabies cases
   - Reported dog-mediated human rabies cases
@@ -53,6 +54,8 @@ Exposures and cases are disaggregated by WHO Wound Categories, GNARF age groups,
 - Animal exposure victims receiving PEP
 
 ![Animal exposure victims receiving PEP](resources/images/ntd_hrs_007.png)
+
+
 
 ### User Groups
 
