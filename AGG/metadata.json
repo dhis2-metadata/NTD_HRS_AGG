@@ -5113,7 +5113,7 @@
             "code": "NTD_HRS_DOG_MEDIATED_EXPOSURES_CAT3",
             "description": "WHO wound category III: Transdermal bites or scratches, licks on broken skin, contamination of mucous membrane with saliva, exposure to a bat",
             "domainType": "AGGREGATE",
-            "formName": "Wound category II",
+            "formName": "Wound category III",
             "id": "HvZM7ayDIGB",
             "legendSets": [],
             "name": "NTD-HRS - Dog-mediated exposures - wound category III",
@@ -5654,7 +5654,7 @@
             "dataSetElements": [
                 {
                     "dataElement": {
-                        "id": "G0laKndGFn1"
+                        "id": "VvX7pQsC0AX"
                     },
                     "dataSet": {
                         "id": "pq0lrrpvQnw"
@@ -5662,63 +5662,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "KTXg2fZ8O73"
-                    },
-                    "dataSet": {
-                        "id": "pq0lrrpvQnw"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "Q8QZ08L6wsX"
-                    },
-                    "dataSet": {
-                        "id": "pq0lrrpvQnw"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "Iv4Xal46Dez"
-                    },
-                    "dataSet": {
-                        "id": "pq0lrrpvQnw"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "eR5BJG5GlmL"
-                    },
-                    "dataSet": {
-                        "id": "pq0lrrpvQnw"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "GaP9XWz10fg"
-                    },
-                    "dataSet": {
-                        "id": "pq0lrrpvQnw"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "mBirvVt81pi"
-                    },
-                    "dataSet": {
-                        "id": "pq0lrrpvQnw"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "HvZM7ayDIGB"
-                    },
-                    "dataSet": {
-                        "id": "pq0lrrpvQnw"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "iavvGOLEHqq"
+                        "id": "aRX8szFu15e"
                     },
                     "dataSet": {
                         "id": "pq0lrrpvQnw"
@@ -5734,15 +5678,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "od3EEcLtFkB"
-                    },
-                    "dataSet": {
-                        "id": "pq0lrrpvQnw"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "QprRn2PKIpl"
+                        "id": "iavvGOLEHqq"
                     },
                     "dataSet": {
                         "id": "pq0lrrpvQnw"
@@ -5766,7 +5702,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "GJ6KJaefA0M"
+                        "id": "G0laKndGFn1"
                     },
                     "dataSet": {
                         "id": "pq0lrrpvQnw"
@@ -5774,7 +5710,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "aRX8szFu15e"
+                        "id": "GaP9XWz10fg"
                     },
                     "dataSet": {
                         "id": "pq0lrrpvQnw"
@@ -5782,7 +5718,47 @@
                 },
                 {
                     "dataElement": {
-                        "id": "VvX7pQsC0AX"
+                        "id": "Iv4Xal46Dez"
+                    },
+                    "dataSet": {
+                        "id": "pq0lrrpvQnw"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "Q8QZ08L6wsX"
+                    },
+                    "dataSet": {
+                        "id": "pq0lrrpvQnw"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "mBirvVt81pi"
+                    },
+                    "dataSet": {
+                        "id": "pq0lrrpvQnw"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "eR5BJG5GlmL"
+                    },
+                    "dataSet": {
+                        "id": "pq0lrrpvQnw"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "QprRn2PKIpl"
+                    },
+                    "dataSet": {
+                        "id": "pq0lrrpvQnw"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "KTXg2fZ8O73"
                     },
                     "dataSet": {
                         "id": "pq0lrrpvQnw"
@@ -5795,6 +5771,30 @@
                     "dataSet": {
                         "id": "pq0lrrpvQnw"
                     }
+                },
+                {
+                    "dataElement": {
+                        "id": "GJ6KJaefA0M"
+                    },
+                    "dataSet": {
+                        "id": "pq0lrrpvQnw"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "HvZM7ayDIGB"
+                    },
+                    "dataSet": {
+                        "id": "pq0lrrpvQnw"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "od3EEcLtFkB"
+                    },
+                    "dataSet": {
+                        "id": "pq0lrrpvQnw"
+                    }
                 }
             ],
             "expiryDays": 0,
@@ -5803,7 +5803,7 @@
             "indicators": [],
             "legendSets": [],
             "mobile": false,
-            "name": "NTD-RAB - Human Rabies Surveillance",
+            "name": "NTD-HRS - Human Rabies Surveillance",
             "noValueRequiresComment": false,
             "notifyCompletingUser": false,
             "openFuturePeriods": 1,
@@ -5836,7 +5836,7 @@
             "timelyDays": 15,
             "translations": [],
             "validCompleteOnly": false,
-            "version": 78
+            "version": 79
         }
     ],
     "documents": [],
@@ -7152,9 +7152,11 @@
                     "filters": [],
                     "hideSubtitle": false,
                     "hideTitle": false,
-                    "id": "Hu4FTEXctmk",
+                    "id": "qKaLGySDZym",
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
+                    "labelTemplate": "{name}\n{value}",
+                    "labels": true,
                     "layer": "thematic",
                     "method": 2,
                     "name": "NTD-HRS - Human rabies cases laboratory-confirmed (%)",
@@ -7440,9 +7442,11 @@
                     "filters": [],
                     "hideSubtitle": false,
                     "hideTitle": false,
-                    "id": "MLkoznhgGuI",
+                    "id": "sS9jQM7jkIk",
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
+                    "labelTemplate": "{name}\n{value}",
+                    "labels": true,
                     "layer": "thematic",
                     "method": 2,
                     "name": "NTD-HRS - Reported human rabies incidence (/10,000 population)",
@@ -7484,7 +7488,7 @@
                         "lastQuarter": false,
                         "lastSixMonth": false,
                         "lastWeek": false,
-                        "lastYear": true,
+                        "lastYear": false,
                         "monthsLastYear": false,
                         "monthsThisYear": false,
                         "quartersLastYear": false,
@@ -7497,7 +7501,7 @@
                         "thisQuarter": false,
                         "thisSixMonth": false,
                         "thisWeek": false,
-                        "thisYear": false,
+                        "thisYear": true,
                         "weeksThisYear": false,
                         "yesterday": false
                     },
@@ -7518,6 +7522,62 @@
                     "userGroupAccesses": [],
                     "userOrganisationUnit": false,
                     "userOrganisationUnitChildren": true,
+                    "userOrganisationUnitGrandChildren": false
+                },
+                {
+                    "attributeDimensions": [],
+                    "attributeValues": [],
+                    "categoryDimensions": [],
+                    "categoryOptionGroupSetDimensions": [],
+                    "columnDimensions": [],
+                    "columns": [],
+                    "completedOnly": false,
+                    "dataDimensionItems": [],
+                    "dataElementDimensions": [],
+                    "dataElementGroupSetDimensions": [],
+                    "digitGroupSeparator": "SPACE",
+                    "eventClustering": false,
+                    "eventPointRadius": 0,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "filterDimensions": [],
+                    "filters": [],
+                    "hideSubtitle": false,
+                    "hideTitle": false,
+                    "id": "YkKP8ezwncD",
+                    "interpretations": [],
+                    "itemOrganisationUnitGroups": [],
+                    "layer": "orgUnit",
+                    "name": "YkKP8ezwncD",
+                    "opacity": 1.0,
+                    "organisationUnitGroupSetDimensions": [],
+                    "organisationUnitLevels": [
+                        1,
+                        2
+                    ],
+                    "organisationUnits": [],
+                    "parentGraphMap": {},
+                    "parentLevel": 0,
+                    "periods": [],
+                    "programIndicatorDimensions": [],
+                    "renderingStrategy": "SINGLE",
+                    "rows": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "skipRounding": false,
+                    "sortOrder": 0,
+                    "subscribed": false,
+                    "subscribers": [],
+                    "topLimit": 0,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "userOrganisationUnit": false,
+                    "userOrganisationUnitChildren": false,
                     "userOrganisationUnitGrandChildren": false
                 }
             ],
@@ -7558,7 +7618,7 @@
         "description": "Human Rabies Surveillance (aggregate)",
         "healthAreaCode": "NTD",
         "healthAreaName": "Neglected Tropical Diseases",
-        "lastUpdated": "20241216T134634",
+        "lastUpdated": "20241223T134338",
         "locale": "en",
         "name": "NTD_HRS_AGG_AGG_DHIS2.40.5-en",
         "type": "AGG",
@@ -8243,7 +8303,7 @@
                 "lastQuarter": false,
                 "lastSixMonth": false,
                 "lastWeek": false,
-                "lastYear": true,
+                "lastYear": false,
                 "monthsLastYear": false,
                 "monthsThisYear": false,
                 "quartersLastYear": false,
@@ -8256,7 +8316,7 @@
                 "thisQuarter": false,
                 "thisSixMonth": false,
                 "thisWeek": false,
-                "thisYear": false,
+                "thisYear": true,
                 "weeksThisYear": false,
                 "yesterday": false
             },
@@ -8420,7 +8480,7 @@
                 "lastQuarter": false,
                 "lastSixMonth": false,
                 "lastWeek": false,
-                "lastYear": true,
+                "lastYear": false,
                 "monthsLastYear": false,
                 "monthsThisYear": false,
                 "quartersLastYear": false,
@@ -8433,7 +8493,7 @@
                 "thisQuarter": false,
                 "thisSixMonth": false,
                 "thisWeek": false,
-                "thisYear": false,
+                "thisYear": true,
                 "weeksThisYear": false,
                 "yesterday": false
             },
@@ -8597,7 +8657,7 @@
                 "lastQuarter": false,
                 "lastSixMonth": false,
                 "lastWeek": false,
-                "lastYear": true,
+                "lastYear": false,
                 "monthsLastYear": false,
                 "monthsThisYear": false,
                 "quartersLastYear": false,
@@ -8610,7 +8670,7 @@
                 "thisQuarter": false,
                 "thisSixMonth": false,
                 "thisWeek": false,
-                "thisYear": false,
+                "thisYear": true,
                 "weeksThisYear": false,
                 "yesterday": false
             },
