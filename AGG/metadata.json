@@ -845,6 +845,320 @@
             "visualizationAttribute": false
         }
     ],
+    "aggregateDataExchanges": [
+        {
+            "code": "NTD_HRS_AGG_NTD_RAB_IND_EXPOSURES",
+            "name": "NTD-HRS --> NTD-RAB indicators (exposures)",
+            "translations": [],
+            "externalAccess": false,
+            "publicAccess": "rw------",
+            "userGroupAccesses": [],
+            "userAccesses": [],
+            "access": {
+                "manage": true,
+                "externalize": true,
+                "write": true,
+                "read": true,
+                "update": true,
+                "delete": true,
+                "data": {
+                    "write": true,
+                    "read": true
+                }
+            },
+            "favorites": [],
+            "sharing": {
+                "owner": "vUeLeQMSwhN",
+                "external": false,
+                "users": {},
+                "userGroups": {},
+                "public": "rw------"
+            },
+            "source": {
+                "requests": [
+                    {
+                        "name": "NTD-HRS --> NTD-RAB indicators (exposures)",
+                        "dx": [
+                            "IQa5IHwhHqT",
+                            "XFI4WYMV1HX",
+                            "hNTkFdV6Pov",
+                            "fSNTjnGqypQ",
+                            "jO7Pin6sEcT",
+                            "rOS4HbN8U6e",
+                            "qpJJysFwyKX",
+                            "aotJNs9fJNM",
+                            "rQcATzAW0W8",
+                            "QPeAcWWa1Hz",
+                            "n04xODuMYTO",
+                            "nUCz6Q2bDu4",
+                            "HWU1X1SViXM",
+                            "Tvn0AbxYYDN",
+                            "oq77pzRhCZ8",
+                            "sGNafzYECD5",
+                            "ob5uXcdaLvw",
+                            "aqrq5RdaXOJ",
+                            "yU6TN2LtRem",
+                            "bK2pV4jGo61",
+                            "aYPCVRJh6e0",
+                            "H8YJsV8LQFa",
+                            "ELYW43T1WgX",
+                            "k0EclO7trcM",
+                            "x1dt86aHxz6",
+                            "GhPrQNVp7R7",
+                            "u12eVKEuVwq",
+                            "TMu35mimBq8"
+                        ],
+                        "pe": [
+                            "THIS_MONTH",
+                            "LAST_MONTH"
+                        ],
+                        "ou": [
+                            "LEVEL-<OU_LEVEL_FACILITY_UID>"
+                        ],
+                        "filters": [],
+                        "inputIdScheme": "UID",
+                        "outputDataElementIdScheme": "CODE",
+                        "outputOrgUnitIdScheme": "UID",
+                        "outputIdScheme": "ATTRIBUTE:vudyDP7jUy5"
+                    }
+                ]
+            },
+            "target": {
+                "type": "INTERNAL",
+                "request": {
+                    "dataElementIdScheme": "CODE",
+                    "orgUnitIdScheme": "UID",
+                    "categoryOptionComboIdScheme": "CODE",
+                    "idScheme": "UID"
+                }
+            },
+            "displayName": "NTD-HRS --> NTD-RAB indicators (exposures)",
+            "favorite": false,
+            "id": "OpBEBbKsGsx",
+            "attributeValues": []
+        },
+        {
+            "code": "NTD_HRS_AGG_NTD_RAB_IND_CASES",
+            "name": "NTD-HRS --> NTD-RAB indicators (cases)",
+            "translations": [],
+            "externalAccess": false,
+            "publicAccess": "rw------",
+            "userGroupAccesses": [],
+            "userAccesses": [],
+            "access": {
+                "manage": true,
+                "externalize": true,
+                "write": true,
+                "read": true,
+                "update": true,
+                "delete": true,
+                "data": {
+                    "write": true,
+                    "read": true
+                }
+            },
+            "favorites": [],
+            "sharing": {
+                "owner": "vUeLeQMSwhN",
+                "external": false,
+                "users": {},
+                "userGroups": {},
+                "public": "rw------"
+            },
+            "source": {
+                "requests": [
+                    {
+                        "name": "NTD-HRS --> NTD-RAB indicators (cases)",
+                        "dx": [
+                            "PFXaKaE3YkL",
+                            "CLfUp9SDzKH",
+                            "Y8KTkZanIHd",
+                            "hSuqNlV24mN",
+                            "S6RmL4RHzYh",
+                            "QtX2eMmEfBz",
+                            "JHKUWSPusxx",
+                            "v9IFMC4NmnW",
+                            "aftXEnQKVbS",
+                            "jghJzrRaZhr",
+                            "mbBw9G1d3ew",
+                            "S6Cxc3qiHew",
+                            "tEEXhF9dbmO",
+                            "wo9u2CNLFUP",
+                            "ln5laU5NuXt",
+                            "KHKf65oS3dB",
+                            "addUAMeEmR4",
+                            "OjcGBUZ8g7L",
+                            "SFzNSuEiETv",
+                            "pfbqke62ovL",
+                            "RTyYd0PLAVD",
+                            "VOaWAOTAy6R",
+                            "E3zYqnvlDsK",
+                            "UzK0n8pXTDO",
+                            "MRPcHRVjSUs",
+                            "oOzPMc29Wre",
+                            "fK08jIgOdWO",
+                            "CnXDjWka5dN"
+                        ],
+                        "pe": [
+                            "THIS_MONTH",
+                            "LAST_MONTH"
+                        ],
+                        "ou": [
+                            "LEVEL-<OU_LEVEL_FACILITY_UID>"
+                        ],
+                        "filters": [],
+                        "inputIdScheme": "UID",
+                        "outputDataElementIdScheme": "CODE",
+                        "outputOrgUnitIdScheme": "UID",
+                        "outputIdScheme": "ATTRIBUTE:vudyDP7jUy5"
+                    }
+                ]
+            },
+            "target": {
+                "type": "INTERNAL",
+                "request": {
+                    "dataElementIdScheme": "CODE",
+                    "orgUnitIdScheme": "UID",
+                    "categoryOptionComboIdScheme": "CODE",
+                    "idScheme": "CODE"
+                }
+            },
+            "displayName": "NTD-HRS --> NTD-RAB indicators (cases)",
+            "favorite": false,
+            "id": "yjMwqaf0VAC",
+            "attributeValues": []
+        },
+        {
+            "code": "NTD_HRS_AGG_NTD_RAB_DE",
+            "name": "NTD-HRS --> NTD-RAB data elements",
+            "translations": [],
+            "externalAccess": false,
+            "publicAccess": "rw------",
+            "userGroupAccesses": [],
+            "userAccesses": [],
+            "access": {
+                "manage": true,
+                "externalize": true,
+                "write": true,
+                "read": true,
+                "update": true,
+                "delete": true,
+                "data": {
+                    "write": true,
+                    "read": true
+                }
+            },
+            "favorites": [],
+            "sharing": {
+                "owner": "vUeLeQMSwhN",
+                "external": false,
+                "users": {},
+                "userGroups": {},
+                "public": "rw------"
+            },
+            "source": {
+                "requests": [
+                    {
+                        "name": "NTD-HRS --> NTD-RAB data elements",
+                        "dx": [
+                            "GaP9XWz10fg.r4obGKakysC",
+                            "GaP9XWz10fg.ark8H5uXOaB",
+                            "GaP9XWz10fg.EtPfdnM7LV6",
+                            "GaP9XWz10fg.JjtgEPHD06G",
+                            "GaP9XWz10fg.P8ra2t3Mkvh",
+                            "GaP9XWz10fg.sNX2A96Px9e",
+                            "GaP9XWz10fg.vKyrzoRdg0W",
+                            "GaP9XWz10fg.XgtlInaCTCa",
+                            "GaP9XWz10fg.Aovz8NMLV0z",
+                            "GaP9XWz10fg.FinEOsXwP9l",
+                            "GaP9XWz10fg.PQTwQnoJtZ3",
+                            "GaP9XWz10fg.WD5yT0X8syi",
+                            "GaP9XWz10fg.BfoNaqx7eue",
+                            "GaP9XWz10fg.Skx8k6rYliE",
+                            "od3EEcLtFkB.r4obGKakysC",
+                            "od3EEcLtFkB.ark8H5uXOaB",
+                            "od3EEcLtFkB.EtPfdnM7LV6",
+                            "od3EEcLtFkB.JjtgEPHD06G",
+                            "od3EEcLtFkB.P8ra2t3Mkvh",
+                            "od3EEcLtFkB.sNX2A96Px9e",
+                            "od3EEcLtFkB.vKyrzoRdg0W",
+                            "od3EEcLtFkB.XgtlInaCTCa",
+                            "od3EEcLtFkB.Aovz8NMLV0z",
+                            "od3EEcLtFkB.FinEOsXwP9l",
+                            "od3EEcLtFkB.PQTwQnoJtZ3",
+                            "od3EEcLtFkB.WD5yT0X8syi",
+                            "od3EEcLtFkB.BfoNaqx7eue",
+                            "od3EEcLtFkB.Skx8k6rYliE",
+                            "aRX8szFu15e.r4obGKakysC",
+                            "aRX8szFu15e.ark8H5uXOaB",
+                            "aRX8szFu15e.EtPfdnM7LV6",
+                            "aRX8szFu15e.JjtgEPHD06G",
+                            "aRX8szFu15e.P8ra2t3Mkvh",
+                            "aRX8szFu15e.sNX2A96Px9e",
+                            "aRX8szFu15e.vKyrzoRdg0W",
+                            "aRX8szFu15e.XgtlInaCTCa",
+                            "aRX8szFu15e.Aovz8NMLV0z",
+                            "aRX8szFu15e.FinEOsXwP9l",
+                            "aRX8szFu15e.PQTwQnoJtZ3",
+                            "aRX8szFu15e.WD5yT0X8syi",
+                            "aRX8szFu15e.BfoNaqx7eue",
+                            "aRX8szFu15e.Skx8k6rYliE",
+                            "mBirvVt81pi.r4obGKakysC",
+                            "mBirvVt81pi.ark8H5uXOaB",
+                            "mBirvVt81pi.EtPfdnM7LV6",
+                            "mBirvVt81pi.JjtgEPHD06G",
+                            "mBirvVt81pi.P8ra2t3Mkvh",
+                            "mBirvVt81pi.sNX2A96Px9e",
+                            "mBirvVt81pi.vKyrzoRdg0W",
+                            "mBirvVt81pi.XgtlInaCTCa",
+                            "mBirvVt81pi.Aovz8NMLV0z",
+                            "mBirvVt81pi.FinEOsXwP9l",
+                            "mBirvVt81pi.PQTwQnoJtZ3",
+                            "mBirvVt81pi.WD5yT0X8syi",
+                            "mBirvVt81pi.BfoNaqx7eue",
+                            "mBirvVt81pi.Skx8k6rYliE",
+                            "G0laKndGFn1.r4obGKakysC",
+                            "G0laKndGFn1.ark8H5uXOaB",
+                            "G0laKndGFn1.EtPfdnM7LV6",
+                            "G0laKndGFn1.JjtgEPHD06G",
+                            "G0laKndGFn1.P8ra2t3Mkvh",
+                            "G0laKndGFn1.sNX2A96Px9e",
+                            "G0laKndGFn1.vKyrzoRdg0W",
+                            "G0laKndGFn1.XgtlInaCTCa",
+                            "G0laKndGFn1.Aovz8NMLV0z",
+                            "G0laKndGFn1.FinEOsXwP9l",
+                            "G0laKndGFn1.PQTwQnoJtZ3",
+                            "G0laKndGFn1.WD5yT0X8syi",
+                            "G0laKndGFn1.BfoNaqx7eue",
+                            "G0laKndGFn1.Skx8k6rYliE"
+                        ],
+                        "pe": [
+                            "THIS_MONTH",
+                            "LAST_MONTH"
+                        ],
+                        "ou": [
+                            "LEVEL-<OU_LEVEL_FACILITY_UID>"
+                        ],
+                        "filters": [],
+                        "inputIdScheme": "UID",
+                        "outputIdScheme": "ATTRIBUTE:vudyDP7jUy5"
+                    }
+                ]
+            },
+            "target": {
+                "type": "INTERNAL",
+                "request": {
+                    "dataElementIdScheme": "CODE",
+                    "orgUnitIdScheme": "UID",
+                    "idScheme": "UID"
+                }
+            },
+            "displayName": "NTD-HRS --> NTD-RAB data elements",
+            "favorite": false,
+            "id": "eQmQZr8NvpW",
+            "attributeValues": []
+        }
+    ],
     "categories": [
         {
             "attributeValues": [],
