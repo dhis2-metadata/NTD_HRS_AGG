@@ -6005,7 +6005,7 @@
             "dataSetElements": [
                 {
                     "dataElement": {
-                        "id": "KTXg2fZ8O73"
+                        "id": "iavvGOLEHqq"
                     },
                     "dataSet": {
                         "id": "pq0lrrpvQnw"
@@ -6013,7 +6013,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "mBirvVt81pi"
+                        "id": "HvZM7ayDIGB"
                     },
                     "dataSet": {
                         "id": "pq0lrrpvQnw"
@@ -6029,7 +6029,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "Q8QZ08L6wsX"
+                        "id": "Iv4Xal46Dez"
                     },
                     "dataSet": {
                         "id": "pq0lrrpvQnw"
@@ -6037,7 +6037,23 @@
                 },
                 {
                     "dataElement": {
-                        "id": "RBoMGutQp9Z"
+                        "id": "od3EEcLtFkB"
+                    },
+                    "dataSet": {
+                        "id": "pq0lrrpvQnw"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "VvX7pQsC0AX"
+                    },
+                    "dataSet": {
+                        "id": "pq0lrrpvQnw"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "aRX8szFu15e"
                     },
                     "dataSet": {
                         "id": "pq0lrrpvQnw"
@@ -6046,6 +6062,38 @@
                 {
                     "dataElement": {
                         "id": "dlZLlXkcX5T"
+                    },
+                    "dataSet": {
+                        "id": "pq0lrrpvQnw"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "eR5BJG5GlmL"
+                    },
+                    "dataSet": {
+                        "id": "pq0lrrpvQnw"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "Q8QZ08L6wsX"
+                    },
+                    "dataSet": {
+                        "id": "pq0lrrpvQnw"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "GaP9XWz10fg"
+                    },
+                    "dataSet": {
+                        "id": "pq0lrrpvQnw"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "GJ6KJaefA0M"
                     },
                     "dataSet": {
                         "id": "pq0lrrpvQnw"
@@ -6069,23 +6117,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "eR5BJG5GlmL"
-                    },
-                    "dataSet": {
-                        "id": "pq0lrrpvQnw"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "GJ6KJaefA0M"
-                    },
-                    "dataSet": {
-                        "id": "pq0lrrpvQnw"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "Iv4Xal46Dez"
+                        "id": "mBirvVt81pi"
                     },
                     "dataSet": {
                         "id": "pq0lrrpvQnw"
@@ -6101,7 +6133,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "iavvGOLEHqq"
+                        "id": "RBoMGutQp9Z"
                     },
                     "dataSet": {
                         "id": "pq0lrrpvQnw"
@@ -6109,39 +6141,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "aRX8szFu15e"
-                    },
-                    "dataSet": {
-                        "id": "pq0lrrpvQnw"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "HvZM7ayDIGB"
-                    },
-                    "dataSet": {
-                        "id": "pq0lrrpvQnw"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "GaP9XWz10fg"
-                    },
-                    "dataSet": {
-                        "id": "pq0lrrpvQnw"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "VvX7pQsC0AX"
-                    },
-                    "dataSet": {
-                        "id": "pq0lrrpvQnw"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "od3EEcLtFkB"
+                        "id": "KTXg2fZ8O73"
                     },
                     "dataSet": {
                         "id": "pq0lrrpvQnw"
@@ -6200,34 +6200,10 @@
             "id": "KwFb4aSJNnI",
             "indicators": [
                 {
-                    "id": "QPeAcWWa1Hz"
-                },
-                {
-                    "id": "UzK0n8pXTDO"
-                },
-                {
-                    "id": "rOS4HbN8U6e"
-                },
-                {
                     "id": "nUCz6Q2bDu4"
                 },
                 {
-                    "id": "GwYRZafyGhi"
-                },
-                {
-                    "id": "Y8KTkZanIHd"
-                },
-                {
-                    "id": "wo9u2CNLFUP"
-                },
-                {
-                    "id": "n04xODuMYTO"
-                },
-                {
                     "id": "JHKUWSPusxx"
-                },
-                {
-                    "id": "nG5NHN9HzDl"
                 },
                 {
                     "id": "XFI4WYMV1HX"
@@ -6245,25 +6221,13 @@
                     "id": "hNTkFdV6Pov"
                 },
                 {
-                    "id": "xUYbvgsXw0z"
-                },
-                {
-                    "id": "jaytqbHoWR2"
-                },
-                {
                     "id": "KD0W2xdvqja"
                 },
                 {
                     "id": "aftXEnQKVbS"
                 },
                 {
-                    "id": "jO7Pin6sEcT"
-                },
-                {
                     "id": "oOzPMc29Wre"
-                },
-                {
-                    "id": "hbwFxtsnD5l"
                 },
                 {
                     "id": "VOaWAOTAy6R"
@@ -6275,22 +6239,10 @@
                     "id": "H8YJsV8LQFa"
                 },
                 {
-                    "id": "KHKf65oS3dB"
-                },
-                {
-                    "id": "Aespu9UFrsG"
-                },
-                {
                     "id": "QtX2eMmEfBz"
                 },
                 {
                     "id": "u12eVKEuVwq"
-                },
-                {
-                    "id": "fkxBxmBON3U"
-                },
-                {
-                    "id": "PFXaKaE3YkL"
                 },
                 {
                     "id": "bJQYKmjilG1"
@@ -6305,22 +6257,112 @@
                     "id": "pfbqke62ovL"
                 },
                 {
-                    "id": "LG80NmfNNUr"
-                },
-                {
-                    "id": "fSNTjnGqypQ"
-                },
-                {
                     "id": "WHCMy32qCpC"
                 },
                 {
                     "id": "yU6TN2LtRem"
                 },
                 {
-                    "id": "jrRDptRWCO2"
+                    "id": "S6RmL4RHzYh"
                 },
                 {
-                    "id": "S6RmL4RHzYh"
+                    "id": "SFzNSuEiETv"
+                },
+                {
+                    "id": "HcPqBp14zYp"
+                },
+                {
+                    "id": "d9miRPh11tQ"
+                },
+                {
+                    "id": "aotJNs9fJNM"
+                },
+                {
+                    "id": "Au0crt29don"
+                },
+                {
+                    "id": "v9IFMC4NmnW"
+                },
+                {
+                    "id": "I2fkCL41eiM"
+                },
+                {
+                    "id": "Tvn0AbxYYDN"
+                },
+                {
+                    "id": "E3zYqnvlDsK"
+                },
+                {
+                    "id": "Feh0u1tKr9A"
+                },
+                {
+                    "id": "YgCcAL23nmM"
+                },
+                {
+                    "id": "GhPrQNVp7R7"
+                },
+                {
+                    "id": "RTyYd0PLAVD"
+                },
+                {
+                    "id": "oq77pzRhCZ8"
+                },
+                {
+                    "id": "QPeAcWWa1Hz"
+                },
+                {
+                    "id": "UzK0n8pXTDO"
+                },
+                {
+                    "id": "rOS4HbN8U6e"
+                },
+                {
+                    "id": "GwYRZafyGhi"
+                },
+                {
+                    "id": "Y8KTkZanIHd"
+                },
+                {
+                    "id": "wo9u2CNLFUP"
+                },
+                {
+                    "id": "n04xODuMYTO"
+                },
+                {
+                    "id": "nG5NHN9HzDl"
+                },
+                {
+                    "id": "xUYbvgsXw0z"
+                },
+                {
+                    "id": "jaytqbHoWR2"
+                },
+                {
+                    "id": "jO7Pin6sEcT"
+                },
+                {
+                    "id": "hbwFxtsnD5l"
+                },
+                {
+                    "id": "KHKf65oS3dB"
+                },
+                {
+                    "id": "Aespu9UFrsG"
+                },
+                {
+                    "id": "fkxBxmBON3U"
+                },
+                {
+                    "id": "PFXaKaE3YkL"
+                },
+                {
+                    "id": "LG80NmfNNUr"
+                },
+                {
+                    "id": "fSNTjnGqypQ"
+                },
+                {
+                    "id": "jrRDptRWCO2"
                 },
                 {
                     "id": "BZexJEP2iPv"
@@ -6329,13 +6371,7 @@
                     "id": "mbBw9G1d3ew"
                 },
                 {
-                    "id": "SFzNSuEiETv"
-                },
-                {
                     "id": "CLfUp9SDzKH"
-                },
-                {
-                    "id": "HcPqBp14zYp"
                 },
                 {
                     "id": "jghJzrRaZhr"
@@ -6347,16 +6383,7 @@
                     "id": "kDlBTuBnAzg"
                 },
                 {
-                    "id": "d9miRPh11tQ"
-                },
-                {
-                    "id": "aotJNs9fJNM"
-                },
-                {
                     "id": "YwJlBB9uKN5"
-                },
-                {
-                    "id": "Au0crt29don"
                 },
                 {
                     "id": "IQa5IHwhHqT"
@@ -6368,9 +6395,6 @@
                     "id": "aqrq5RdaXOJ"
                 },
                 {
-                    "id": "v9IFMC4NmnW"
-                },
-                {
                     "id": "OjcGBUZ8g7L"
                 },
                 {
@@ -6380,19 +6404,7 @@
                     "id": "mMflQ3rstaC"
                 },
                 {
-                    "id": "I2fkCL41eiM"
-                },
-                {
                     "id": "MRPcHRVjSUs"
-                },
-                {
-                    "id": "Tvn0AbxYYDN"
-                },
-                {
-                    "id": "E3zYqnvlDsK"
-                },
-                {
-                    "id": "Feh0u1tKr9A"
                 },
                 {
                     "id": "ELYW43T1WgX"
@@ -6416,16 +6428,10 @@
                     "id": "k0EclO7trcM"
                 },
                 {
-                    "id": "YgCcAL23nmM"
-                },
-                {
                     "id": "CnXDjWka5dN"
                 },
                 {
                     "id": "rQcATzAW0W8"
-                },
-                {
-                    "id": "GhPrQNVp7R7"
                 },
                 {
                     "id": "OaoEc51xdgH"
@@ -6440,13 +6446,7 @@
                     "id": "ob5uXcdaLvw"
                 },
                 {
-                    "id": "RTyYd0PLAVD"
-                },
-                {
                     "id": "aYPCVRJh6e0"
-                },
-                {
-                    "id": "oq77pzRhCZ8"
                 },
                 {
                     "id": "TMu35mimBq8"
@@ -7432,52 +7432,6 @@
             "translations": []
         },
         {
-            "aggregateExportCategoryOptionCombo": "5064YF",
-            "annualized": false,
-            "attributeValues": [
-                {
-                    "attribute": {
-                        "id": "vudyDP7jUy5"
-                    },
-                    "value": "NTD_RAB_EXPOSURES_CAT2_CAT3"
-                }
-            ],
-            "code": "NTD_HRS_EXPOSURES_CAT2_CAT3_5064YF",
-            "decimals": 0,
-            "denominator": "1",
-            "denominatorDescription": "1",
-            "id": "rQcATzAW0W8",
-            "indicatorType": {
-                "id": "kHy61PbChXr"
-            },
-            "legendSets": [],
-            "name": "NTD-HRS - Animal exposures in humans, categories II and III, 50-64y, female",
-            "numerator": "#{Q8QZ08L6wsX.P8ra2t3Mkvh} + #{dlZLlXkcX5T.P8ra2t3Mkvh}",
-            "numeratorDescription": "NTD-HRS - Animal exposures, categories II & III, 50-64y, female",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "PaTcjJZFppE": {
-                        "access": "r-------",
-                        "id": "PaTcjJZFppE"
-                    },
-                    "Y1OnlrAS9I1": {
-                        "access": "rw------",
-                        "id": "Y1OnlrAS9I1"
-                    },
-                    "Ym5EQ66JCpP": {
-                        "access": "r-------",
-                        "id": "Ym5EQ66JCpP"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "Animal exposures, category II & III, 50-64y, f",
-            "translations": []
-        },
-        {
             "aggregateExportCategoryOptionCombo": "5064YM",
             "annualized": false,
             "attributeValues": [
@@ -7825,6 +7779,52 @@
             "translations": []
         },
         {
+            "aggregateExportCategoryOptionCombo": "0104YF",
+            "annualized": false,
+            "attributeValues": [
+                {
+                    "attribute": {
+                        "id": "vudyDP7jUy5"
+                    },
+                    "value": "NTD_RAB_DOG_EXPOSURES_CAT2_CAT3"
+                }
+            ],
+            "code": "NTD_HRS_DOG_MEDIATED_EXPOSURES_CAT2_CAT3_0104YF",
+            "decimals": 0,
+            "denominator": "1",
+            "denominatorDescription": "1",
+            "id": "oq77pzRhCZ8",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "NTD-HRS - Dog-mediated exposures in humans, categories II and III, 01-04y, female",
+            "numerator": "#{RBoMGutQp9Z.r4obGKakysC} + #{HvZM7ayDIGB.r4obGKakysC}",
+            "numeratorDescription": "NTD-HRS - Animal exposures, categories II & III, 01-04y, female",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PaTcjJZFppE": {
+                        "access": "r-------",
+                        "id": "PaTcjJZFppE"
+                    },
+                    "Y1OnlrAS9I1": {
+                        "access": "rw------",
+                        "id": "Y1OnlrAS9I1"
+                    },
+                    "Ym5EQ66JCpP": {
+                        "access": "r-------",
+                        "id": "Ym5EQ66JCpP"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Dog exposures, category II & III, 01-04y, f",
+            "translations": []
+        },
+        {
             "aggregateExportCategoryOptionCombo": "0104YM",
             "annualized": false,
             "attributeValues": [
@@ -8101,52 +8101,6 @@
             "translations": []
         },
         {
-            "aggregateExportCategoryOptionCombo": "5064YM",
-            "annualized": false,
-            "attributeValues": [
-                {
-                    "attribute": {
-                        "id": "vudyDP7jUy5"
-                    },
-                    "value": "NTD_RAB_DOG_EXPOSURES_CAT2_CAT3"
-                }
-            ],
-            "code": "NTD_HRS_DOG_MEDIATED_EXPOSURES_CAT2_CAT3_5064YM",
-            "decimals": 0,
-            "denominator": "1",
-            "denominatorDescription": "1",
-            "id": "k0EclO7trcM",
-            "indicatorType": {
-                "id": "kHy61PbChXr"
-            },
-            "legendSets": [],
-            "name": "NTD-HRS - Dog-mediated exposures in humans, categories II and III, 50-64y, male",
-            "numerator": "#{RBoMGutQp9Z.WD5yT0X8syi} + #{HvZM7ayDIGB.WD5yT0X8syi}",
-            "numeratorDescription": "NTD-HRS - Animal exposures, categories II & III, 50-64y, male",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "PaTcjJZFppE": {
-                        "access": "r-------",
-                        "id": "PaTcjJZFppE"
-                    },
-                    "Y1OnlrAS9I1": {
-                        "access": "rw------",
-                        "id": "Y1OnlrAS9I1"
-                    },
-                    "Ym5EQ66JCpP": {
-                        "access": "r-------",
-                        "id": "Ym5EQ66JCpP"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "Dog exposures, category II & III, 50-64y, m",
-            "translations": []
-        },
-        {
             "aggregateExportCategoryOptionCombo": "65PLUSYF",
             "annualized": false,
             "attributeValues": [
@@ -8190,6 +8144,52 @@
                 "users": {}
             },
             "shortName": "Dog exposures, category II & III, 65+y, f",
+            "translations": []
+        },
+        {
+            "aggregateExportCategoryOptionCombo": "65PLUSYM",
+            "annualized": false,
+            "attributeValues": [
+                {
+                    "attribute": {
+                        "id": "vudyDP7jUy5"
+                    },
+                    "value": "NTD_RAB_DOG_EXPOSURES_CAT2_CAT3"
+                }
+            ],
+            "code": "NTD_HRS_DOG_MEDIATED_EXPOSURES_CAT2_CAT3_65PLUSYM",
+            "decimals": 0,
+            "denominator": "1",
+            "denominatorDescription": "1",
+            "id": "GhPrQNVp7R7",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "NTD-HRS - Dog-mediated exposures in humans, categories II and III, 65+y, male",
+            "numerator": "#{RBoMGutQp9Z.BfoNaqx7eue} + #{HvZM7ayDIGB.BfoNaqx7eue}",
+            "numeratorDescription": "NTD-HRS - Animal exposures, categories II & III, 65+y, male",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PaTcjJZFppE": {
+                        "access": "r-------",
+                        "id": "PaTcjJZFppE"
+                    },
+                    "Y1OnlrAS9I1": {
+                        "access": "rw------",
+                        "id": "Y1OnlrAS9I1"
+                    },
+                    "Ym5EQ66JCpP": {
+                        "access": "r-------",
+                        "id": "Ym5EQ66JCpP"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Dog exposures, category II & III, 65+y, m",
             "translations": []
         },
         {
@@ -8543,6 +8543,52 @@
             "translations": []
         },
         {
+            "aggregateExportCategoryOptionCombo": "2549YF",
+            "annualized": false,
+            "attributeValues": [
+                {
+                    "attribute": {
+                        "id": "vudyDP7jUy5"
+                    },
+                    "value": "NTD_RAB_DOG_MEDIATED_HUMAN_CASES"
+                }
+            ],
+            "code": "NTD_HRS_DOG_MEDIATED_CASES_2549YF",
+            "decimals": 0,
+            "denominator": "1",
+            "denominatorDescription": "1",
+            "id": "RTyYd0PLAVD",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "NTD-HRS - Dog-mediated human rabies cases, 25-49y, female",
+            "numerator": "#{eR5BJG5GlmL.EtPfdnM7LV6} + #{iavvGOLEHqq.EtPfdnM7LV6}",
+            "numeratorDescription": "NTD-HRS - Dog-mediated human rabies cases, 25-49y, female",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PaTcjJZFppE": {
+                        "access": "r-------",
+                        "id": "PaTcjJZFppE"
+                    },
+                    "Y1OnlrAS9I1": {
+                        "access": "rw------",
+                        "id": "Y1OnlrAS9I1"
+                    },
+                    "Ym5EQ66JCpP": {
+                        "access": "r-------",
+                        "id": "Ym5EQ66JCpP"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Dog-mediated human rabies cases, 25-49y, female",
+            "translations": []
+        },
+        {
             "aggregateExportCategoryOptionCombo": "2549YM",
             "annualized": false,
             "attributeValues": [
@@ -8816,52 +8862,6 @@
                 "users": {}
             },
             "shortName": "Dog-mediated human rabies cases, <1y, female",
-            "translations": []
-        },
-        {
-            "aggregateExportCategoryOptionCombo": "0000YM",
-            "annualized": false,
-            "attributeValues": [
-                {
-                    "attribute": {
-                        "id": "vudyDP7jUy5"
-                    },
-                    "value": "NTD_RAB_DOG_MEDIATED_HUMAN_CASES"
-                }
-            ],
-            "code": "NTD_HRS_DOG_MEDIATED_CASES_0000YM",
-            "decimals": 0,
-            "denominator": "1",
-            "denominatorDescription": "1",
-            "id": "CnXDjWka5dN",
-            "indicatorType": {
-                "id": "kHy61PbChXr"
-            },
-            "legendSets": [],
-            "name": "NTD-HRS - Dog-mediated human rabies cases, <1y, male",
-            "numerator": "#{eR5BJG5GlmL.Skx8k6rYliE} + #{iavvGOLEHqq.Skx8k6rYliE}",
-            "numeratorDescription": "NTD-HRS - Dog-mediated human rabies cases, <1y, male",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "PaTcjJZFppE": {
-                        "access": "r-------",
-                        "id": "PaTcjJZFppE"
-                    },
-                    "Y1OnlrAS9I1": {
-                        "access": "rw------",
-                        "id": "Y1OnlrAS9I1"
-                    },
-                    "Ym5EQ66JCpP": {
-                        "access": "r-------",
-                        "id": "Ym5EQ66JCpP"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "Dog-mediated human rabies cases, <1y, male",
             "translations": []
         },
         {
@@ -9941,28 +9941,28 @@
             "translations": []
         },
         {
-            "aggregateExportCategoryOptionCombo": "0104YF",
+            "aggregateExportCategoryOptionCombo": "5064YF",
             "annualized": false,
             "attributeValues": [
                 {
                     "attribute": {
                         "id": "vudyDP7jUy5"
                     },
-                    "value": "NTD_RAB_DOG_EXPOSURES_CAT2_CAT3"
+                    "value": "NTD_RAB_EXPOSURES_CAT2_CAT3"
                 }
             ],
-            "code": "NTD_HRS_DOG_MEDIATED_EXPOSURES_CAT2_CAT3_0104YF",
+            "code": "NTD_HRS_EXPOSURES_CAT2_CAT3_5064YF",
             "decimals": 0,
             "denominator": "1",
             "denominatorDescription": "1",
-            "id": "oq77pzRhCZ8",
+            "id": "rQcATzAW0W8",
             "indicatorType": {
                 "id": "kHy61PbChXr"
             },
             "legendSets": [],
-            "name": "NTD-HRS - Dog-mediated exposures in humans, categories II and III, 01-04y, female",
-            "numerator": "#{RBoMGutQp9Z.r4obGKakysC} + #{HvZM7ayDIGB.r4obGKakysC}",
-            "numeratorDescription": "NTD-HRS - Animal exposures, categories II & III, 01-04y, female",
+            "name": "NTD-HRS - Animal exposures in humans, categories II and III, 50-64y, female",
+            "numerator": "#{Q8QZ08L6wsX.P8ra2t3Mkvh} + #{dlZLlXkcX5T.P8ra2t3Mkvh}",
+            "numeratorDescription": "NTD-HRS - Animal exposures, categories II & III, 50-64y, female",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -9983,7 +9983,7 @@
                 },
                 "users": {}
             },
-            "shortName": "Dog exposures, category II & III, 01-04y, f",
+            "shortName": "Animal exposures, category II & III, 50-64y, f",
             "translations": []
         },
         {
@@ -10079,7 +10079,7 @@
             "translations": []
         },
         {
-            "aggregateExportCategoryOptionCombo": "65PLUSYM",
+            "aggregateExportCategoryOptionCombo": "5064YM",
             "annualized": false,
             "attributeValues": [
                 {
@@ -10089,18 +10089,18 @@
                     "value": "NTD_RAB_DOG_EXPOSURES_CAT2_CAT3"
                 }
             ],
-            "code": "NTD_HRS_DOG_MEDIATED_EXPOSURES_CAT2_CAT3_65PLUSYM",
+            "code": "NTD_HRS_DOG_MEDIATED_EXPOSURES_CAT2_CAT3_5064YM",
             "decimals": 0,
             "denominator": "1",
             "denominatorDescription": "1",
-            "id": "GhPrQNVp7R7",
+            "id": "k0EclO7trcM",
             "indicatorType": {
                 "id": "kHy61PbChXr"
             },
             "legendSets": [],
-            "name": "NTD-HRS - Dog-mediated exposures in humans, categories II and III, 65+y, male",
-            "numerator": "#{RBoMGutQp9Z.BfoNaqx7eue} + #{HvZM7ayDIGB.BfoNaqx7eue}",
-            "numeratorDescription": "NTD-HRS - Animal exposures, categories II & III, 65+y, male",
+            "name": "NTD-HRS - Dog-mediated exposures in humans, categories II and III, 50-64y, male",
+            "numerator": "#{RBoMGutQp9Z.WD5yT0X8syi} + #{HvZM7ayDIGB.WD5yT0X8syi}",
+            "numeratorDescription": "NTD-HRS - Animal exposures, categories II & III, 50-64y, male",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -10121,7 +10121,7 @@
                 },
                 "users": {}
             },
-            "shortName": "Dog exposures, category II & III, 65+y, m",
+            "shortName": "Dog exposures, category II & III, 50-64y, m",
             "translations": []
         },
         {
@@ -10217,7 +10217,7 @@
             "translations": []
         },
         {
-            "aggregateExportCategoryOptionCombo": "2549YF",
+            "aggregateExportCategoryOptionCombo": "0000YM",
             "annualized": false,
             "attributeValues": [
                 {
@@ -10227,18 +10227,18 @@
                     "value": "NTD_RAB_DOG_MEDIATED_HUMAN_CASES"
                 }
             ],
-            "code": "NTD_HRS_DOG_MEDIATED_CASES_2549YF",
+            "code": "NTD_HRS_DOG_MEDIATED_CASES_0000YM",
             "decimals": 0,
             "denominator": "1",
             "denominatorDescription": "1",
-            "id": "RTyYd0PLAVD",
+            "id": "CnXDjWka5dN",
             "indicatorType": {
                 "id": "kHy61PbChXr"
             },
             "legendSets": [],
-            "name": "NTD-HRS - Dog-mediated human rabies cases, 25-49y, female",
-            "numerator": "#{eR5BJG5GlmL.EtPfdnM7LV6} + #{iavvGOLEHqq.EtPfdnM7LV6}",
-            "numeratorDescription": "NTD-HRS - Dog-mediated human rabies cases, 25-49y, female",
+            "name": "NTD-HRS - Dog-mediated human rabies cases, <1y, male",
+            "numerator": "#{eR5BJG5GlmL.Skx8k6rYliE} + #{iavvGOLEHqq.Skx8k6rYliE}",
+            "numeratorDescription": "NTD-HRS - Dog-mediated human rabies cases, <1y, male",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -10259,7 +10259,7 @@
                 },
                 "users": {}
             },
-            "shortName": "Dog-mediated human rabies cases, 25-49y, female",
+            "shortName": "Dog-mediated human rabies cases, <1y, male",
             "translations": []
         },
         {
